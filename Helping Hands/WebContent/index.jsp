@@ -338,12 +338,18 @@
 
                         <div class="on-hover hidden-xs">
                             
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> 
+                                	When you donate for such children through our NGO, you are bringing them out of danger and giving them a protected environment to live with all the basic necessities and have a fair shot in life.
+									We will also send you the details of your beneficiary along with an annual report about their educational progress. If you want to meet the child in person, we can arrange a visit for you to get first-hand feedback on the change your donation has brought to the child life.
+									Support our operation kindness through donation for orphans. Your donation can change generations for life.
+								</p>
 
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> 
+                                	There are children in India who were born to some parents but are now left alone to fend for themselves. These children are either thrown in a dumpster or left to survive in the orphanage, with no idea where to earn their bread and butter. It would be natural to think for such children and take affirmative action in some form.
+									While there are several means to support them, one of the most trusted ways is to get associated with an NGO. Your donation for orphans through an NGO will ensure that the children are not shunted out to brave the streets without any help or support.
+								</p>
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
                                 
                         </div>
                     </div>
@@ -366,13 +372,12 @@
 
                         <div class="on-hover hidden-xs">
                             
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
-
-
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
-
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
-                                
+                                <p>
+                                	There are children in India who were born to some parents but are now left alone to fend for themselves. These children are either thrown in a dumpster or left to survive in the orphanage, with no idea where to earn their bread and butter. It would be natural to think for such children and take affirmative action in some form.
+									If your heart breaks for orphaned or abandoned children, you might be looking for, orphanage near me to donate food or money.<br> In addition to finding nearby orphanages, you can also take a look at the following ways to donate and help the orphans in need.
+									Donate Clothes and Toys, Sponsor Food and Healthcare, Support education
+									Growing children always need clothes and toys, but the financial condition of orphans might not be able to cover their needs. However, you can help them by donating these things, especially during the festive season, to make them feel the love and affection of having a family. Additionally, you can also sponsor their school uniforms and other school supplies like books and stationery and see them grow into confident teens.
+								</p>
                         </div>
 
 
@@ -575,12 +580,12 @@
 
                             <div class="footer-content">
 
-                                <p>
-                                    <strong>Sadaka</strong> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                 <p>
+                                    <strong>Helping Hands</strong> We firmly believe that every child deserves the best chance for a bright future, which is why, we are fiercely committed to ensure that children not only survive, but thrive. With a bold ambition and a powerful vigilance, we do whatever it takes to save the children.In India and across the world, Helping Hands works on-ground every day and especially, in times of crisis. 
                                 </p> 
 
                                 <p>
-                                    ILorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                    Our pioneering programs address children unique needs; giving them a healthy start, an opportunity to learn as well as protection from harm. 
                                 </p>
 
                             </div>
@@ -598,21 +603,17 @@
                             <div class="footer-content">
                                 <ul class="tweets list-unstyled">
                                     <li class="tweet"> 
+                                        Helping Hand proofs their statement "No child should grow up alone" by their work. -Rashmi Singh
+									</li>
 
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
+                                    <li class="tweet"> 
+
+                                        Environment of Helping Hands is really great, children here are not only given food and education but also a family to ensure proper mental wellbeing. -Sakshi Sinha
 
                                     </li>
 
                                     <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
-                                    </li>
-
-                                    <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
+										Supporting orphaned and vulnerable children while bringing about sustainable change is done here. -Rahul Thakur 
                                     </li>
 
                                 </ul>
@@ -634,8 +635,10 @@
                                 <div class="footer-form">
                                     
                                     <div class="footer-form" >
+              
+                                		Helping Hands<br>Plot No. 4, Block BP-101, Anandapur, Kasba,<br> West Bengal, Kolkata 700105
                                     
-                                    <form action="php/mail.php" class="ajax-form">
+                                   <!--  <form action="php/mail.php" class="ajax-form">
 
                                         <div class="form-group">
                                             <input type="text" name="name" class="form-control" placeholder="Name" required>
@@ -667,7 +670,7 @@
                                             <button type="submit" class="btn btn-submit pull-right">Send message</button>
                                         </div>
                                         
-                                    </form>
+                                    </form> -->
 
                                 </div>
 
@@ -689,12 +692,12 @@
             
         </div>
 
-        <div class="footer-bottom">
+        <!-- <div class="footer-bottom">
 
             <div class="container text-right">
                 Sadaka @ copyrights 2015 - by <a href="http://www.ouarmedia.com" target="_blank">Ouarmedia</a>
             </div>
-        </div>
+        </div> -->
         
     </footer> <!-- main-footer -->
 
@@ -779,13 +782,13 @@
                         </div>
                         
 
-                        <div class="row">
+                        <!-- <div class="row">
 
                             <div class="form-group col-md-12">
                                 <button type="submit" class="btn btn-primary pull-right" name="donateNow" >DONATE NOW</button>
                             </div>
 
-                        </div>
+                        </div> -->
 
 
 

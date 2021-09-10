@@ -133,7 +133,7 @@
 			
 			<h1 class="page-title">ABOUT US <span class="title-under"></span></h1>
 			<p class="page-description">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit Necessitatibus.
+				No child should grow up alone.We can help every child to get stable, loving and nurturing environments.
 			</p>
 			
 		</div>
@@ -154,27 +154,22 @@
 
 				<div class="col-md-6">
 
-					<h2 class="title-style-2">ABOUT SADAKA <span class="title-under"></span></h2>
+					<h2 class="title-style-2">ABOUT Helping Hands <span class="title-under"></span></h2>
 
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, nulla quae possimus id fugit totam perspiciatis ad consequatur natus dolores unde ipsa, architecto, dignissimos corrupti explicabo provident debitis suscipit, beatae!
+						Our NGO Helping Hands runs orphanage all over India in different cities. It was established in 1980, with a view to taking utmost care of children without parents. The orphanage has hundreds thousands of children who are being provided with free of cost food, lodging, boarding, clothing, and education facilities along with other basic amenities of life.
 					</p>
 
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi pariatur, voluptatum molestiae voluptas ducimus tempora numquam eligendi quos, quia aut quidem et, odio deleniti amet natus accusamus fugit! Temporibus, tenetur.
+						Around 84185 orphan children have been taken care of in different regions of India and around all over world. Our efforts, along with your support, in the form of donations for children has helped the orphan foundation to a great extent in connecting these children with mainstream society and helping them live better lives.
 					</p>
 
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse voluptatem, ea, quisquam vero ullam nesciunt recusandae expedita similique nisi! Ducimus, reiciendis, quia. Explicabo minima error excepturi minus, aperiam illum fugit.
-					</p>
-
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi pariatur, voluptatum molestiae voluptas ducimus tempora numquam eligendi quos, quia aut quidem et, odio deleniti amet natus accusamus fugit! Temporibus, tenetur.
-					</p>
-
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse voluptatem, ea, quisquam vero ullam nesciunt recusandae expedita similique nisi! Ducimus, reiciendis, quia. Explicabo minima error excepturi minus, aperiam illum fugit , quia. Explicabo minima error excepturi minus, aperiam illum fugit.
-
+						We are more than a home for children from difficult backgrounds and unfortunate circumstances. Our children are supported and guided by family-like love and affection to grow and thrive. This forms the essence of Helping Hands, one of the most trusted NGOs in India that is located all over world. 
+				    </p>
+				    <p>
+				    	We believe that, together, we can change the way we care for children and help to get them into stable, loving, nurturing environments.                                     
+						We are uninterruptedly engaged in providing developmental services in the realm of rehabilitation and treatment to the specially abled and destitute children of the society through the execution of various free of cost services.
 					</p>
 					
 				</div>
@@ -195,8 +190,8 @@
 			                        </div>
 			                        <h3 class="col-title">our mission</h3>
 			                        <div class="col-details">
-
-			                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+			                        
+			                          <p>Our mission is to provide best services to the needy peoples.</p>
 			                          
 			                        </div>
 			                        <a href="#" class="btn btn-primary"> Read more </a>
@@ -216,7 +211,7 @@
 			                        <h3 class="col-title">Make donations</h3>
 			                        <div class="col-details">
 
-			                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+			                          <p>Donate your unneccessary things. One can be happy with our one help.</p>
 			                          
 			                        </div>
 			                        <a href="#" class="btn btn-primary"> Read more </a>
@@ -236,7 +231,7 @@
 			                        <h3 class="col-title">Help & support</h3>
 			                        <div class="col-details">
 
-			                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+			                          <p>Please help and support us to change the future of needy childrens.</p>
 			                          
 			                        </div>
 			                        <a href="#" class="btn btn-primary"> Read more </a>
@@ -256,8 +251,8 @@
 			                        <h3 class="col-title">our programs</h3>
 			                        <div class="col-details">
 
-			                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
-			                          
+			                           <p>We organised various programs to reach maximum no. of people throughout the year.</p>
+			                        
 			                        </div>
 			                        <a href="#" class="btn btn-primary"> Read more </a>
 			                    
@@ -295,7 +290,7 @@
 
 
 
-	                        <h4 class="member-name"><a href="#">Robert C. Numbers</a></h4>
+	                        <h4 class="member-name"><a href="#">S. Singh</a></h4>
 
 	                        <div class="member-position">
 	                            CO-FOUNDER
@@ -329,7 +324,7 @@
 
 
 
-	                        <h4 class="member-name"><a href="#">Marjorie R. Echevarria</a></h4>
+	                        <h4 class="member-name"><a href="#">Amita Singh</a></h4>
 
 	                        <div class="member-position">
 	                            CO-FOUNDER
@@ -364,7 +359,7 @@
 
 
 
-	                        <h4 class="member-name"><a href="#">Allison J. Falls</a></h4>
+	                        <h4 class="member-name"><a href="#">Alisa</a></h4>
 
 	                        <div class="member-position">
 	                            CO-FOUNDER
@@ -399,7 +394,7 @@
 
 
 
-	                        <h4 class="member-name"><a href="#">Bryan B. Stevens</a></h4>
+	                        <h4 class="member-name"><a href="#">B. Rawaal</a></h4>
 
 	                        <div class="member-position">
 	                            CO-FOUNDER
@@ -451,11 +446,11 @@
 
                             <div class="footer-content">
                                 <p>
-                                    <strong>Sadaka</strong> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                    <strong>Helping Hands</strong> We firmly believe that every child deserves the best chance for a bright future, which is why, we are fiercely committed to ensure that children not only survive, but thrive. With a bold ambition and a powerful vigilance, we do whatever it takes to save the children.In India and across the world, Helping Hands works on-ground every day and especially, in times of crisis. 
                                 </p> 
 
                                 <p>
-                                    ILorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                    Our pioneering programs address children unique needs; giving them a healthy start, an opportunity to learn as well as protection from harm. 
                                 </p>
 
                             </div>
@@ -473,21 +468,17 @@
                             <div class="footer-content">
                                 <ul class="tweets list-unstyled">
                                     <li class="tweet"> 
+                                        Helping Hand proofs their statement "No child should grow up alone" by their work. -Rashmi Singh
+									</li>
 
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
+                                    <li class="tweet"> 
+
+                                        Environment of Helping Hands is really great, children here are not only given food and education but also a family to ensure proper mental wellbeing. -Sakshi Sinha
 
                                     </li>
 
                                     <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
-                                    </li>
-
-                                    <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
+										Supporting orphaned and vulnerable children while bringing about sustainable change is done here. -Rahul Thakur 
                                     </li>
 
                                 </ul>
@@ -508,7 +499,9 @@
 
                                 <div class="footer-form" >
                                     
-                                    <form action="php/mail.php" class="ajax-form">
+                                    Helping Hands<br>Plot No. 4, Block BP-101, Anandapur, Kasba,<br> West Bengal, Kolkata 700105
+                                    
+                                    <!-- <form action="php/mail.php" class="ajax-form">
 
                                         <div class="form-group">
                                             <input type="text" name="name" class="form-control" placeholder="Name" required>
@@ -538,7 +531,7 @@
                                             <button type="submit" class="btn btn-submit pull-right">Send message</button>
                                         </div>
                                         
-                                    </form>
+                                    </form> -->
 
                                 </div>
                             </div>
@@ -558,12 +551,12 @@
             
         </div>
 
-        <div class="footer-bottom">
+        <!-- <div class="footer-bottom">
 
             <div class="container text-right">
                 Sadaka @ copyrights 2015 - by <a href="http://www.ouarmedia.com" target="_blank">Ouarmedia</a>
             </div>
-        </div>
+        </div> -->
         
     </footer>
 

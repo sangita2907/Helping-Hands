@@ -42,8 +42,8 @@
                     <div class="col-sm-6 col-xs-12">
 
                         <ul class="list-unstyled list-inline header-contact">
-                            <li> <i class="fa fa-phone"></i> <a href="tel:">+212 658 986 213 </a> </li>
-                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@sadaka.org">contact@sadaka.org</a> </li>
+                            <li> <i class="fa fa-phone"></i> <a href="tel:8481025464">+91-8481025464 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:sangitahalder798@gmail.com">sangitahalder798@gmail.com</a> </li>
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
@@ -131,7 +131,7 @@
 			
 			<h1 class="page-title">CONTACT US <span class="title-under"></span></h1>
 			<p class="page-description">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit Necessitatibus.
+				Children are the bricks on which the nation's foundation is based!
 			</p>
 			
 		</div>
@@ -146,9 +146,14 @@
 
 				<div class="col-md-7 col-sm-12 col-form">
 
-					<h2 class="title-style-2">CONTACT FORM <span class="title-under"></span></h2>
-
-					<form action="php/mail.php" class="contact-form ajax-form">
+					<h2 class="title-style-2">Donate Now <span class="title-under"></span></h2>
+						<h2><b> Our Account Details</b> <br></h2>
+						<p>If you want to donate money please use the below account details.</p>
+						<h3>Account No: 34238785780 <br><br>
+						IFSC Code: SBIN 0004560	<br><br>
+						Account Holder: Helping Hands<br><br>
+						Bank Name: State Bank Of India <br></h3>
+					<!-- <form action="php/mail.php" class="contact-form ajax-form">
 
 						<div class="row">
 
@@ -185,14 +190,14 @@
                         <div class="clearfix"></div>
 
 					</form>
-
+ -->
 				</div>
 
 				<div class="col-md-4 col-md-offset-1 col-contact">
 
 					<h2 class="title-style-2"> Helping Hands CONTACTS <span class="title-under"></span></h2>
 					<p>
-						<b>Helping Hands</b> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla .
+						<b>Helping Hands</b> is an international non-profit organisation for children, with headquarters in Kolkata. We are the outspoken champions for children, ensuring that their voices are heard and their issues are given top priority. 
 					</p>
 
 					<div class="contact-items">
@@ -242,11 +247,11 @@
 
                             <div class="footer-content">
                                 <p>
-                                    <strong>Sadaka</strong> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                    <strong>Helping Hands</strong> We firmly believe that every child deserves the best chance for a bright future, which is why, we are fiercely committed to ensure that children not only survive, but thrive. With a bold ambition and a powerful vigilance, we do whatever it takes to save the children.In India and across the world, Helping Hands works on-ground every day and especially, in times of crisis. 
                                 </p> 
 
                                 <p>
-                                    ILorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
+                                    Our pioneering programs address children unique needs; giving them a healthy start, an opportunity to learn as well as protection from harm. 
                                 </p>
 
                             </div>
@@ -263,22 +268,18 @@
 
                             <div class="footer-content">
                                 <ul class="tweets list-unstyled">
+                                     <li class="tweet"> 
+                                        Helping Hand proofs their statement "No child should grow up alone" by their work. -Rashmi Singh
+									</li>
+
                                     <li class="tweet"> 
 
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
+                                        Environment of Helping Hands is really great, children here are not only given food and education but also a family to ensure proper mental wellbeing. -Sakshi Sinha
 
                                     </li>
 
                                     <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
-                                    </li>
-
-                                    <li class="tweet"> 
-
-                                        20 Surprise Eggs, Kinder Surprise Cars 2 Thomas Spongebob Disney Pixar  http://t.co/fTSazikPd4 
-
+										Supporting orphaned and vulnerable children while bringing about sustainable change is done here. -Rahul Thakur 
                                     </li>
 
                                 </ul>
@@ -299,7 +300,9 @@
 
                                 <div class="footer-form" >
                                     
-                                    <form action="php/mail.php" class="ajax-form">
+                                    Helping Hands<br>Plot No. 4, Block BP-101, Anandapur, Kasba,<br> West Bengal, Kolkata 700105
+                                    
+                                    <!-- <form action="php/mail.php" class="ajax-form">
 
                                         <div class="form-group">
                                             <input type="text" name="name" class="form-control" placeholder="Name" required>
@@ -329,7 +332,7 @@
                                             <button type="submit" class="btn btn-submit pull-right">Send message</button>
                                         </div>
                                         
-                                    </form>
+                                    </form> -->
 
                                 </div>
                             </div>
@@ -349,12 +352,12 @@
             
         </div>
 
-        <div class="footer-bottom">
+        <!-- <div class="footer-bottom">
 
             <div class="container text-right">
                 Sadaka @ copyrights 2015 - by <a href="http://www.ouarmedia.com" target="_blank">Ouarmedia</a>
             </div>
-        </div>
+        </div> -->
         
     </footer>
 
